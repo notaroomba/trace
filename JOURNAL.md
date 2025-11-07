@@ -43,3 +43,21 @@ and after organizing it a bit I'm working on making the protractor
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1dedece644161274079a33c0e127ed27de750572/image.png)
   
 
+## 11/7/2025 - Started adding silkscreen  
+
+I started working on finishing the protractor 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--06ce5f635b24ff3285d32df6ee7fa91ab21f9433/image.png)
+
+but then I got distracted and wanted to finish the metric side
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--7350e9ff3ca96ad701dbd52a014b598fcfaedeca/image.png)
+
+Had to go into figma and manually add the 10* and 5* angles 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--04163a1d12f9ea95566b3dc0b64a08f8805579ea/image.png)
+
+Worked on it a buit more and am starting to organize the components together:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--540be1731c8e0d0c80e126a988913f7604b34a06/image.png)
+  
+
