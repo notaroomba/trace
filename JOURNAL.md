@@ -61,3 +61,23 @@ Worked on it a buit more and am starting to organize the components together:
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--540be1731c8e0d0c80e126a988913f7604b34a06/image.png)
   
 
+## 11/8/2025 - Organizing Components  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE3MywicHVyIjoiYmxvYl9pZCJ9fQ==--fd21505cdd1ee834d765af35d22044e71c0a7035/image.png)
+
+I want this to be kinda compact so I'm trying to organize the components as neatly as possible lol.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b666a4de2784d413101104333384e13c983ec5a/image.png)
+
+Finally finished up the capacitor section and went back and added more resistors:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--a2361e604c9c4412f04660d1ac2e0acca433922f/image.png)
+
+I then finished the front side by adding inductors and diodes/general components:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--980e57a58ab333cd88d2b9072e1843122f603549/image.png)
+
+
+I still have to add in the IC's on the back
+  
+
