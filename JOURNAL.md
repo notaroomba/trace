@@ -81,3 +81,23 @@ I then finished the front side by adding inductors and diodes/general components
 I still have to add in the IC's on the back
   
 
+## 11/9/2025 - Finished PCB and Organized Schematic  
+
+I then added the IC's on the back and then organized them:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzNywicHVyIjoiYmxvYl9pZCJ9fQ==--93a305ef2b34aef8e528be089421b5fda1b5056b/image.png)
+
+After a while I finally finished the PCB
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8401e003ca7cb2a7f6772473cfdabd290e1cabc8/image.png)
+
+Added AWG holes, Trace width, some more silkscreen art/references from other PCB Rulers and also some useful conversions on the back.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--6a9651bc9287e5050aa153953267012aa53751c2/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--be01493684d64d0d5829237b3d4c68188409ba9b/image.png)
+
+Then I went back and organized the schematic and marked the fields as DNP:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--3ffaf3081ab46ee161cd394d1bf09a0ce6eb438b/image.png)
+
+
+  
+
