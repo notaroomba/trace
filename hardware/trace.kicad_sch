@@ -18486,98 +18486,249 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "SOIC"
+	(text "TSSOP"
 		(exclude_from_sim no)
-		(at 168.656 -67.31 0)
+		(at 288.544 26.162 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
 			)
 		)
-		(uuid "3a9de4bd-0038-4f5f-b1d0-d8334880d35f")
+		(uuid "0717c682-cdbc-4463-9924-f3fa4c2c9f25")
 	)
 	(text "BGA"
 		(exclude_from_sim no)
-		(at 324.358 25.4 0)
+		(at 382.778 24.13 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
 			)
 		)
-		(uuid "4a3f6db6-5cbd-451a-b5c5-524698c04573")
-	)
-	(text "QFN"
-		(exclude_from_sim no)
-		(at 31.75 137.668 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "58767e9d-9695-4084-8339-bfff7d6ba47e")
-	)
-	(text "TSSOP"
-		(exclude_from_sim no)
-		(at 147.32 97.79 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8a7cfbeb-9c90-4bfc-a4c7-7c1bc893ce8d")
-	)
-	(text "Diodes"
-		(exclude_from_sim no)
-		(at 21.082 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a7bc1bc0-8914-40ea-b098-28d8aae2b4fb")
+		(uuid "1e63d72d-1930-49ea-b211-1dc04a85bba2")
 	)
 	(text "SOT"
 		(exclude_from_sim no)
-		(at 48.514 53.34 0)
+		(at 154.178 49.53 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(face "Blender Pro Bold")
+				(size 5.08 5.08)
+				(color 0 0 0 1)
 			)
 		)
-		(uuid "bc9e51a2-792a-4cf4-bd17-22aeb7079025")
+		(uuid "3605b51c-7352-40a7-b4c3-89bb3c720d86")
+	)
+	(text "SOIC"
+		(exclude_from_sim no)
+		(at 128.778 85.598 0)
+		(effects
+			(font
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "4ebc219a-02f0-45fc-b451-e36c81ce9f37")
 	)
 	(text "DFN"
 		(exclude_from_sim no)
-		(at 2.794 93.726 0)
+		(at 46.482 29.972 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
 			)
 		)
-		(uuid "c76ed408-9545-4a7c-9682-8ad51d2c6052")
+		(uuid "915ebaf1-d00e-4a25-9589-bb88d053d555")
+	)
+	(text "PASSIVES"
+		(exclude_from_sim no)
+		(at 114.808 279.908 0)
+		(effects
+			(font
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "c330eb30-893e-477b-8b2f-7dbbe38fe1e5")
+	)
+	(text "Trace"
+		(exclude_from_sim no)
+		(at 353.06 265.176 0)
+		(effects
+			(font
+				(face "Nasalization")
+				(size 12.7 12.7)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "c7abaa0f-2a1c-4ad6-9b0f-18d14264ef3f")
 	)
 	(text "QFP\n"
 		(exclude_from_sim no)
-		(at 287.274 188.976 0)
+		(at 259.842 155.956 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
 			)
 		)
 		(uuid "cb2befd4-54d5-4d27-9f4d-d8b4f441c7c4")
 	)
+	(text "General"
+		(exclude_from_sim no)
+		(at 153.416 24.892 0)
+		(effects
+			(font
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "d66093dd-f574-43a1-ae5e-89b5a8104c8d")
+	)
+	(text "Diodes"
+		(exclude_from_sim no)
+		(at 154.94 61.976 0)
+		(effects
+			(font
+				(face "Blender Pro Bold")
+				(size 5.08 5.08)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "db451452-0648-49ac-9fbd-716052c5c26c")
+	)
+	(text "QFN"
+		(exclude_from_sim no)
+		(at 140.716 200.152 0)
+		(effects
+			(font
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "e27c1255-646a-4a8d-9e17-2c2a9fd1b58a")
+	)
+	(polyline
+		(pts
+			(xy 12.7 252.73) (xy 299.72 252.73)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "409345d5-b8aa-4adc-8a64-5c13e5e3b112")
+	)
+	(polyline
+		(pts
+			(xy 74.93 69.85) (xy 227.33 69.85)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "43fa24cf-aca6-428f-bdfd-deef7813cf35")
+	)
+	(polyline
+		(pts
+			(xy 74.93 12.7) (xy 74.93 132.08)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "55ed0a12-d7f8-4353-983a-9672ca17b75f")
+	)
+	(polyline
+		(pts
+			(xy 222.25 132.08) (xy 222.25 252.73)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "8b6965dc-c2f1-4930-bba6-00acede156b1")
+	)
+	(polyline
+		(pts
+			(xy 407.67 132.08) (xy 222.25 132.08)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "b2abe650-de3e-4483-bda1-fc57e8418f4e")
+	)
+	(polyline
+		(pts
+			(xy 355.6 12.7) (xy 355.6 132.08)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "cbfbe227-3980-4817-b3a3-7f596946ea04")
+	)
+	(polyline
+		(pts
+			(xy 227.33 69.85) (xy 227.33 132.08)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "d51f7bda-c8ea-4bd8-b690-c57f8340774c")
+	)
+	(polyline
+		(pts
+			(xy 227.33 12.7) (xy 227.33 69.85)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "f1f777a4-ae86-46cb-af97-16e53c104a28")
+	)
+	(polyline
+		(pts
+			(xy 12.7 132.08) (xy 222.25 132.08)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "f2018b79-b024-47da-8900-7111c0850798")
+	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 45.72 8.89 0)
+		(at 182.88 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0712753e-23b5-464c-8795-d314059c265e")
 		(property "Reference" "C13"
-			(at 49.53 6.7309 0)
+			(at 186.69 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18586,7 +18737,7 @@
 			)
 		)
 		(property "Value" "6"
-			(at 49.53 9.2709 0)
+			(at 186.69 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18595,7 +18746,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.9"
-			(at 46.6852 12.7 0)
+			(at 183.8452 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18604,7 +18755,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 8.89 0)
+			(at 182.88 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18613,7 +18764,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 45.72 8.89 0)
+			(at 182.88 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18638,16 +18789,16 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:LP2985-1.8")
-		(at 34.29 60.96 0)
+		(at 113.03 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0c6e0170-855d-454a-9336-df545a68c78e")
 		(property "Reference" "U1"
-			(at 34.29 52.07 0)
+			(at 113.03 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18655,7 +18806,7 @@
 			)
 		)
 		(property "Value" "LP2985-1.8"
-			(at 34.29 54.61 0)
+			(at 113.03 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18663,7 +18814,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 34.29 52.705 0)
+			(at 113.03 37.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18672,7 +18823,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp2985.pdf"
-			(at 34.29 60.96 0)
+			(at 113.03 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18681,7 +18832,7 @@
 			)
 		)
 		(property "Description" "150mA 16V Low-noise Low-dropout Regulator With Shutdown, 1.8V output voltage, SOT-23-5"
-			(at 34.29 60.96 0)
+			(at 113.03 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18715,16 +18866,16 @@
 	)
 	(symbol
 		(lib_id "Interface_CAN_LIN:SN65HVD255D")
-		(at 147.32 -52.07 0)
+		(at 132.08 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0cbb0048-6800-44e4-98a3-f58323746c7b")
 		(property "Reference" "U8"
-			(at 149.4633 -64.77 0)
+			(at 134.2233 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18733,7 +18884,7 @@
 			)
 		)
 		(property "Value" "SN65HVD255D"
-			(at 149.4633 -62.23 0)
+			(at 134.2233 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18742,7 +18893,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 147.32 -50.8 0)
+			(at 132.08 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18751,7 +18902,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn65hvd257.pdf"
-			(at 147.32 -53.34 0)
+			(at 132.08 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18760,7 +18911,7 @@
 			)
 		)
 		(property "Description" "CAN Bus Transceiver with Fast Loop Times for Highly Loaded Networks, SOIC-8"
-			(at 147.32 -52.07 0)
+			(at 132.08 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18803,15 +18954,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -19.05 25.4 0)
+		(at 273.05 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "11a4b1a4-19dd-4c44-9f19-e6d3de32cc15")
 		(property "Reference" "C22"
-			(at -15.748 24.13 0)
+			(at 276.352 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18820,7 +18971,7 @@
 			)
 		)
 		(property "Value" "2225"
-			(at -16.002 26.67 0)
+			(at 276.098 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18829,7 +18980,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_2225_5664Metric"
-			(at -18.0848 29.21 0)
+			(at 274.0152 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18838,7 +18989,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -19.05 25.4 0)
+			(at 273.05 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18847,7 +18998,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -19.05 25.4 0)
+			(at 273.05 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18872,16 +19023,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 85.09 -7.62 90)
+		(at 140.97 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "1527e423-0801-42f4-8b41-f7fdd93004f0")
 		(property "Reference" "L6"
-			(at 85.09 -13.208 90)
+			(at 140.97 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18889,7 +19039,7 @@
 			)
 		)
 		(property "Value" "7.3x7.3"
-			(at 85.09 -10.414 90)
+			(at 140.97 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18897,7 +19047,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_7.3x7.3_H4.5"
-			(at 85.09 -7.62 0)
+			(at 140.97 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18906,7 +19056,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 -7.62 0)
+			(at 140.97 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18915,7 +19065,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 85.09 -7.62 0)
+			(at 140.97 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18940,16 +19090,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 41.91 17.78 0)
+		(at 82.55 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "157027c8-eb68-40c7-93b2-bf7c09cf9e8d")
 		(property "Reference" "R10"
-			(at 44.45 16.5099 0)
+			(at 80.01 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18958,7 +19108,7 @@
 			)
 		)
 		(property "Value" "0508"
-			(at 44.45 19.0499 0)
+			(at 80.01 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18967,7 +19117,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0508_1220Metric"
-			(at 40.132 17.78 90)
+			(at 84.328 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18976,7 +19126,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 17.78 0)
+			(at 82.55 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18985,7 +19135,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 41.91 17.78 0)
+			(at 82.55 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19010,16 +19160,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 78.74 8.89 0)
+		(at 215.9 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1793fc62-de52-4d0f-9a7c-67e5731ee791")
 		(property "Reference" "C24"
-			(at 82.55 6.7309 0)
+			(at 219.71 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19028,7 +19178,7 @@
 			)
 		)
 		(property "Value" "3"
-			(at 82.55 9.2709 0)
+			(at 219.71 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19037,7 +19187,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.4"
-			(at 79.7052 12.7 0)
+			(at 216.8652 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19046,7 +19196,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 8.89 0)
+			(at 215.9 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19055,7 +19205,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 78.74 8.89 0)
+			(at 215.9 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19080,15 +19230,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -144.78 25.4 0)
+		(at 147.32 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "179dd689-9169-4aa0-9149-b1386dd55ff6")
 		(property "Reference" "C1"
-			(at -141.732 24.13 0)
+			(at 150.368 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19097,7 +19247,7 @@
 			)
 		)
 		(property "Value" "0201"
-			(at -141.732 26.67 0)
+			(at 150.368 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19106,7 +19256,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at -143.8148 29.21 0)
+			(at 148.2852 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19115,7 +19265,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -144.78 25.4 0)
+			(at 147.32 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19124,7 +19274,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -144.78 25.4 0)
+			(at 147.32 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19149,16 +19299,15 @@
 	)
 	(symbol
 		(lib_id "Audio:CS4265")
-		(at 39.37 167.64 0)
+		(at 148.59 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "190079b2-8069-42ce-b65d-d50d8a7ef78d")
 		(property "Reference" "U6"
-			(at 46.5933 137.16 0)
+			(at 137.922 135.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19167,7 +19316,7 @@
 			)
 		)
 		(property "Value" "CS4265"
-			(at 46.5933 139.7 0)
+			(at 155.8133 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19176,7 +19325,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm"
-			(at 39.37 167.64 0)
+			(at 148.59 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19185,7 +19334,7 @@
 			)
 		)
 		(property "Datasheet" "https://statics.cirrus.com/pubs/proDatasheet/CS4265_F5.pdf"
-			(at 39.37 167.64 0)
+			(at 148.59 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19194,7 +19343,7 @@
 			)
 		)
 		(property "Description" "104 dB, 24-Bit, 192 kHz Stereo Audio CODEC, QFN-32"
-			(at 39.37 167.64 0)
+			(at 148.59 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19312,16 +19461,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 64.77 24.13 0)
+		(at 67.31 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1a8b6b67-a390-492a-b466-ef78152cffc9")
 		(property "Reference" "R5"
-			(at 67.31 22.8599 0)
+			(at 64.77 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19330,7 +19479,7 @@
 			)
 		)
 		(property "Value" "1206"
-			(at 67.31 25.3999 0)
+			(at 64.77 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19339,7 +19488,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 62.992 24.13 90)
+			(at 69.088 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19348,7 +19497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 24.13 0)
+			(at 67.31 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19357,7 +19506,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 64.77 24.13 0)
+			(at 67.31 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19382,16 +19531,16 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WS")
-		(at 46.99 81.28 270)
+		(at 116.84 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1dc74f68-7311-4b09-9da3-a4f7af8ed8fd")
 		(property "Reference" "D2"
-			(at 49.53 80.0099 90)
+			(at 119.38 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19400,7 +19549,7 @@
 			)
 		)
 		(property "Value" "1N4148WS"
-			(at 49.53 82.5499 90)
+			(at 119.38 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19409,7 +19558,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323"
-			(at 42.545 81.28 0)
+			(at 112.395 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19418,7 +19567,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85751/1n4148ws.pdf"
-			(at 46.99 81.28 0)
+			(at 116.84 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19427,7 +19576,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-323"
-			(at 46.99 81.28 0)
+			(at 116.84 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19436,7 +19585,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 46.99 81.28 0)
+			(at 116.84 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19445,7 +19594,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 46.99 81.28 0)
+			(at 116.84 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19470,15 +19619,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at -6.35 -7.62 90)
+		(at 19.05 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "22afbeb5-2caa-4a25-99f5-bb7c7d4dab79")
 		(property "Reference" "L8"
-			(at -6.35 -11.43 90)
+			(at 19.05 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19486,7 +19635,7 @@
 			)
 		)
 		(property "Value" "0201"
-			(at -6.35 -9.398 90)
+			(at 19.05 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19494,7 +19643,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
-			(at -6.35 -7.62 0)
+			(at 19.05 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19503,7 +19652,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -6.35 -7.62 0)
+			(at 19.05 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19512,7 +19661,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at -6.35 -7.62 0)
+			(at 19.05 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19537,16 +19686,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 44.45 24.13 0)
+		(at 87.63 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "27d29557-4d0d-45e6-9835-00110bbb7492")
 		(property "Reference" "R3"
-			(at 46.99 22.8599 0)
+			(at 85.09 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19555,7 +19704,7 @@
 			)
 		)
 		(property "Value" "0603"
-			(at 46.99 25.3999 0)
+			(at 85.09 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19564,7 +19713,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 42.672 24.13 90)
+			(at 89.408 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19573,7 +19722,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 24.13 0)
+			(at 87.63 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19582,7 +19731,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 44.45 24.13 0)
+			(at 87.63 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19607,16 +19756,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Audio:IRS2092S")
-		(at 223.52 -45.72 0)
+		(at 205.74 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "28fd8324-1c8b-4ff1-84bb-b25455fbf8ae")
 		(property "Reference" "U10"
-			(at 223.52 -73.66 0)
+			(at 205.74 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19624,7 +19773,7 @@
 			)
 		)
 		(property "Value" "IRS2092S"
-			(at 223.52 -71.12 0)
+			(at 205.74 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19632,7 +19781,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
-			(at 223.52 -45.72 0)
+			(at 205.74 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19642,7 +19791,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.infineon.com/dgdl/irs2092.pdf?fileId=5546d462533600a401535675f1be2790"
-			(at 223.52 -45.72 0)
+			(at 205.74 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19651,7 +19800,7 @@
 			)
 		)
 		(property "Description" "Protected Digital Audio Amplifier, PWM Modulator, ±100V, 1.0/1.2A, SOIC-16"
-			(at 223.52 -45.72 0)
+			(at 205.74 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19718,16 +19867,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 24.13 0)
+		(at 26.67 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2af8576e-f279-431c-bdc1-6e17cf1a188e")
 		(property "Reference" "R8"
-			(at 107.95 22.8599 0)
+			(at 24.13 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19736,7 +19885,7 @@
 			)
 		)
 		(property "Value" "4020"
-			(at 107.95 25.3999 0)
+			(at 24.13 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19745,7 +19894,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_4020_10251Metric"
-			(at 103.632 24.13 90)
+			(at 28.448 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19754,7 +19903,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 24.13 0)
+			(at 26.67 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19763,7 +19912,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 105.41 24.13 0)
+			(at 26.67 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19788,16 +19937,16 @@
 	)
 	(symbol
 		(lib_id "Analog_ADC:LTC2294xUP")
-		(at -45.72 200.66 0)
+		(at 45.72 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2cbfb985-ccac-4a69-a6ae-1864b9c908d1")
 		(property "Reference" "U22"
-			(at -41.0367 248.92 0)
+			(at 50.4033 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19806,7 +19955,7 @@
 			)
 		)
 		(property "Value" "LTC2294xUP"
-			(at -41.0367 251.46 0)
+			(at 50.4033 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19815,7 +19964,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm"
-			(at -45.72 203.2 0)
+			(at 45.72 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19824,7 +19973,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/2294fa.pdf"
-			(at -45.72 200.66 0)
+			(at 45.72 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19833,7 +19982,7 @@
 			)
 		)
 		(property "Description" "Dual-Channel, 12-Bit Low Power ADC, 80Msps, QFN-64"
-			(at -45.72 200.66 0)
+			(at 45.72 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20047,16 +20196,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 77.47 36.83 0)
+		(at 284.48 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2fa668bb-0993-400f-8eb1-33b6ac965dc8")
 		(property "Reference" "C9"
-			(at 81.28 34.6709 0)
+			(at 288.29 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20065,7 +20214,7 @@
 			)
 		)
 		(property "Value" "4"
-			(at 81.28 37.2109 0)
+			(at 288.29 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20074,7 +20223,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 78.4352 40.64 0)
+			(at 285.4452 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20083,7 +20232,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 36.83 0)
+			(at 284.48 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20092,7 +20241,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 77.47 36.83 0)
+			(at 284.48 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20117,16 +20266,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 95.25 24.13 0)
+		(at 36.83 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "34db1cfc-cf65-4f83-b942-ee83ead05bc0")
 		(property "Reference" "R7"
-			(at 97.79 22.8599 0)
+			(at 34.29 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20135,7 +20284,7 @@
 			)
 		)
 		(property "Value" "2512"
-			(at 97.79 25.3999 0)
+			(at 34.29 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20144,7 +20293,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
-			(at 93.472 24.13 90)
+			(at 38.608 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20153,7 +20302,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 24.13 0)
+			(at 36.83 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20162,7 +20311,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 95.25 24.13 0)
+			(at 36.83 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20187,16 +20336,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Current:INA253")
-		(at 231.14 115.57 0)
+		(at 336.55 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "39fb9723-a3a7-42d2-9bc1-72184d6ae39f")
 		(property "Reference" "U14"
-			(at 233.2833 97.79 0)
+			(at 338.6933 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20205,7 +20354,7 @@
 			)
 		)
 		(property "Value" "INA253"
-			(at 233.2833 100.33 0)
+			(at 338.6933 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20214,7 +20363,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
-			(at 231.14 138.43 0)
+			(at 336.55 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20223,7 +20372,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina253.pdf"
-			(at 231.14 140.97 0)
+			(at 336.55 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20232,7 +20381,7 @@
 			)
 		)
 		(property "Description" "High Voltage, Bidirectional, Zero-Drift, Current-ShuntMonitor With Integrated, 2-mΩ, Precision, Low Inductive Shunt Resistor, TSSOP-20"
-			(at 231.14 115.57 0)
+			(at 336.55 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20311,16 +20460,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 44.45 36.83 0)
+		(at 251.46 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3ada54c3-3fc5-4087-b920-94f96bce817d")
 		(property "Reference" "C25"
-			(at 48.26 34.6709 0)
+			(at 255.27 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20329,7 +20478,7 @@
 			)
 		)
 		(property "Value" "7.5"
-			(at 48.26 37.2109 0)
+			(at 255.27 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20338,7 +20487,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D7.5mm_P2.50mm"
-			(at 45.4152 40.64 0)
+			(at 252.4252 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20347,7 +20496,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 36.83 0)
+			(at 251.46 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20356,7 +20505,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 44.45 36.83 0)
+			(at 251.46 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20381,15 +20530,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -7.62 25.4 0)
+		(at 284.48 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3fb7995b-bb39-43ba-bfd6-c5aa55419736")
 		(property "Reference" "C23"
-			(at -4.318 24.13 0)
+			(at 287.782 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20398,7 +20547,7 @@
 			)
 		)
 		(property "Value" "3640"
-			(at -4.572 26.67 0)
+			(at 287.528 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20407,7 +20556,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_3640_9110Metric"
-			(at -6.6548 29.21 0)
+			(at 285.4452 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20416,7 +20565,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -7.62 25.4 0)
+			(at 284.48 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20425,7 +20574,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -7.62 25.4 0)
+			(at 284.48 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20450,15 +20599,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at -8.89 -19.05 90)
+		(at 110.49 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "406a92b1-0b0f-4679-a237-a4cb7e1ae0b3")
 		(property "Reference" "L14"
-			(at -8.89 -22.86 90)
+			(at 110.49 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20466,7 +20615,7 @@
 			)
 		)
 		(property "Value" "2010"
-			(at -8.89 -20.828 90)
+			(at 110.49 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20474,7 +20623,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_2010_5025Metric"
-			(at -8.89 -19.05 0)
+			(at 110.49 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20483,7 +20632,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -8.89 -19.05 0)
+			(at 110.49 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20492,7 +20641,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at -8.89 -19.05 0)
+			(at 110.49 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20517,16 +20666,16 @@
 	)
 	(symbol
 		(lib_id "74xx:SN74CB3Q3384APW")
-		(at 200.66 163.83 0)
+		(at 306.07 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "40e016e5-dbf8-4c9d-a455-88c2842bb93d")
 		(property "Reference" "U28"
-			(at 202.8033 138.43 0)
+			(at 308.2133 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20535,7 +20684,7 @@
 			)
 		)
 		(property "Value" "SN74CB3Q3384APW"
-			(at 202.8033 140.97 0)
+			(at 308.2133 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20544,7 +20693,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm"
-			(at 200.66 163.83 0)
+			(at 306.07 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20553,7 +20702,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn74cb3q3384a.pdf?ts=1634790233466"
-			(at 200.66 163.83 0)
+			(at 306.07 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20562,7 +20711,7 @@
 			)
 		)
 		(property "Description" "FET Bus Switch, 10bit, 500MHz, 3.3V, TSSOP-24"
-			(at 200.66 163.83 0)
+			(at 306.07 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20653,16 +20802,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Audio:PAM8908")
-		(at -3.81 167.64 0)
+		(at 95.25 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "41b6c332-1e4c-4a20-91e3-60f688f79498")
 		(property "Reference" "U5"
-			(at -1.6667 144.78 0)
+			(at 97.3933 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20671,7 +20820,7 @@
 			)
 		)
 		(property "Value" "PAM8908"
-			(at -1.6667 147.32 0)
+			(at 97.3933 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20680,7 +20829,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm"
-			(at 0 186.69 0)
+			(at 99.06 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20690,7 +20839,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/datasheet/download/PAM8908.pdf"
-			(at 0 189.23 0)
+			(at 99.06 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20700,7 +20849,7 @@
 			)
 		)
 		(property "Description" "60mW 2.5-5.5V differential stereo headphone amplifier with adjustable gain, QFN-16"
-			(at 0 191.77 0)
+			(at 99.06 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20771,16 +20920,16 @@
 	)
 	(symbol
 		(lib_id "Driver_LED:IS31FL3733-TQ")
-		(at 361.95 229.87 0)
+		(at 360.68 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "465cc1ff-ea23-4ecf-aa51-8b9c137d5301")
 		(property "Reference" "U26"
-			(at 366.6333 270.51 0)
+			(at 365.3633 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20789,7 +20938,7 @@
 			)
 		)
 		(property "Value" "IS31FL3733-TQ"
-			(at 366.6333 273.05 0)
+			(at 365.3633 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20798,7 +20947,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm"
-			(at 361.95 229.87 0)
+			(at 360.68 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20807,7 +20956,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.issi.com/WW/pdf/IS31FL3733.pdf"
-			(at 361.95 229.87 0)
+			(at 360.68 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20816,7 +20965,7 @@
 			)
 		)
 		(property "Description" "12x16 LED matrix driver with 8-bit PWM and breathing, TQFP-48"
-			(at 361.95 229.87 0)
+			(at 360.68 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20982,16 +21131,16 @@
 	)
 	(symbol
 		(lib_id "MCU_Microchip_ATmega:ATmega8U2-A")
-		(at 260.35 224.79 0)
+		(at 260.35 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "479cd589-f9cf-4f4a-8340-2b357bc5fc5b")
 		(property "Reference" "U15"
-			(at 262.4933 260.35 0)
+			(at 262.4933 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21000,7 +21149,7 @@
 			)
 		)
 		(property "Value" "ATmega8U2-A"
-			(at 262.4933 262.89 0)
+			(at 262.4933 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21009,7 +21158,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:TQFP-32_7x7mm_P0.8mm"
-			(at 260.35 224.79 0)
+			(at 260.35 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21019,7 +21168,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/doc7799.pdf"
-			(at 260.35 224.79 0)
+			(at 260.35 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21028,7 +21177,7 @@
 			)
 		)
 		(property "Description" "16MHz, 8kB Flash, 512B SRAM, 512B EEPROM, TQFP-32"
-			(at 260.35 224.79 0)
+			(at 260.35 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21143,15 +21292,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -99.06 25.4 0)
+		(at 193.04 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4bf8e487-82fb-4047-aa63-d7cbf4b98aa5")
 		(property "Reference" "C5"
-			(at -95.758 24.13 0)
+			(at 196.342 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21160,7 +21309,7 @@
 			)
 		)
 		(property "Value" "0805"
-			(at -96.012 26.67 0)
+			(at 196.088 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21169,7 +21318,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at -98.0948 29.21 0)
+			(at 194.0052 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21178,7 +21327,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -99.06 25.4 0)
+			(at 193.04 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21187,7 +21336,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -99.06 25.4 0)
+			(at 193.04 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21212,15 +21361,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 13.97 -7.62 90)
+		(at 39.37 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5198ff6f-9629-4b8a-b917-22be8a5f3fcf")
 		(property "Reference" "L10"
-			(at 13.97 -11.43 90)
+			(at 39.37 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21228,7 +21377,7 @@
 			)
 		)
 		(property "Value" "0603"
-			(at 13.97 -9.398 90)
+			(at 39.37 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21236,7 +21385,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
-			(at 13.97 -7.62 0)
+			(at 39.37 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21245,7 +21394,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 13.97 -7.62 0)
+			(at 39.37 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21254,7 +21403,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 13.97 -7.62 0)
+			(at 39.37 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21279,16 +21428,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 74.93 24.13 0)
+		(at 57.15 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "52cb12a6-6b75-4b4d-a4b4-fecbbc8ae09f")
 		(property "Reference" "R9"
-			(at 77.47 22.8599 0)
+			(at 54.61 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21297,7 +21446,7 @@
 			)
 		)
 		(property "Value" "1812"
-			(at 77.47 25.3999 0)
+			(at 54.61 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21306,7 +21455,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1812_4532Metric"
-			(at 73.152 24.13 90)
+			(at 58.928 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21315,7 +21464,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 74.93 24.13 0)
+			(at 57.15 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21324,7 +21473,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 74.93 24.13 0)
+			(at 57.15 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21349,16 +21498,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 85.09 24.13 0)
+		(at 46.99 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "534ae5f9-3085-4ca4-a983-b75f90b2b9bc")
 		(property "Reference" "R6"
-			(at 87.63 22.8599 0)
+			(at 44.45 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21367,7 +21516,7 @@
 			)
 		)
 		(property "Value" "2010"
-			(at 87.63 25.3999 0)
+			(at 44.45 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21376,7 +21525,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2010_5025Metric"
-			(at 83.312 24.13 90)
+			(at 48.768 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21385,7 +21534,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 24.13 0)
+			(at 46.99 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21394,7 +21543,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 85.09 24.13 0)
+			(at 46.99 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21419,16 +21568,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 92.71 17.78 0)
+		(at 31.75 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5bbecd6f-b068-4590-bed2-595850d23ba8")
 		(property "Reference" "R15"
-			(at 95.25 16.5099 0)
+			(at 29.21 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21437,7 +21586,7 @@
 			)
 		)
 		(property "Value" "1225"
-			(at 95.25 19.0499 0)
+			(at 29.21 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21446,7 +21595,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1225_3264Metric"
-			(at 90.932 17.78 90)
+			(at 33.528 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21455,7 +21604,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 17.78 0)
+			(at 31.75 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21464,7 +21613,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 92.71 17.78 0)
+			(at 31.75 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21489,16 +21638,16 @@
 	)
 	(symbol
 		(lib_id "Analog_ADC:AD7606")
-		(at 307.34 231.14 0)
+		(at 306.07 194.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5dc48178-dd2b-40d2-9830-b17c04576e94")
 		(property "Reference" "U16"
-			(at 312.0233 276.86 0)
+			(at 310.7533 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21507,7 +21656,7 @@
 			)
 		)
 		(property "Value" "AD7606"
-			(at 312.0233 279.4 0)
+			(at 310.7533 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21516,7 +21665,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm"
-			(at 331.47 275.59 0)
+			(at 330.2 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21526,7 +21675,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf"
-			(at 311.15 313.69 90)
+			(at 309.88 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21535,7 +21684,7 @@
 			)
 		)
 		(property "Description" "8-Channel DAS with 16-Bit, Bipolar Input, Simultaneous Sampling ADC, LQFP-64"
-			(at 307.34 231.14 0)
+			(at 306.07 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21746,15 +21895,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 3.81 -7.62 90)
+		(at 29.21 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5e8a35cb-96de-460b-a882-1246da8ebe00")
 		(property "Reference" "L9"
-			(at 3.81 -11.43 90)
+			(at 29.21 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21762,7 +21911,7 @@
 			)
 		)
 		(property "Value" "0402"
-			(at 3.81 -9.398 90)
+			(at 29.21 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21770,7 +21919,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
-			(at 3.81 -7.62 0)
+			(at 29.21 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21779,7 +21928,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 3.81 -7.62 0)
+			(at 29.21 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21788,7 +21937,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 3.81 -7.62 0)
+			(at 29.21 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21813,16 +21962,16 @@
 	)
 	(symbol
 		(lib_id "Diode:SMAJ5.0A")
-		(at 62.23 81.28 270)
+		(at 132.08 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6984cb07-b1ae-4b3c-8512-24d82ac1fe30")
 		(property "Reference" "D3"
-			(at 64.77 80.0099 90)
+			(at 134.62 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21831,7 +21980,7 @@
 			)
 		)
 		(property "Value" "SMAJ5.0A"
-			(at 64.77 82.5499 90)
+			(at 134.62 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21840,7 +21989,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 57.15 81.28 0)
+			(at 127 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21849,7 +21998,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
-			(at 62.23 80.01 0)
+			(at 132.08 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21858,7 +22007,7 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)"
-			(at 62.23 81.28 0)
+			(at 132.08 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21883,16 +22032,16 @@
 	)
 	(symbol
 		(lib_id "74xx:74AHCV17APW")
-		(at 163.83 115.57 0)
+		(at 269.24 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6d80aa53-8b63-49d7-89cd-aa592043a7d9")
 		(property "Reference" "U12"
-			(at 165.1 104.14 0)
+			(at 270.51 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21900,7 +22049,7 @@
 			)
 		)
 		(property "Value" "74AHCV17APW"
-			(at 165.1 106.68 0)
+			(at 270.51 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21908,7 +22057,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
-			(at 163.83 128.27 0)
+			(at 269.24 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21917,7 +22066,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74AHCV17A.pdf"
-			(at 163.83 130.81 0)
+			(at 269.24 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21926,7 +22075,7 @@
 			)
 		)
 		(property "Description" "6-gate schmitt trigger buffer, TSSOP-14"
-			(at 163.83 125.73 0)
+			(at 269.24 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21987,16 +22136,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 62.23 17.78 0)
+		(at 62.23 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "71365cf9-e0c8-4b38-91a7-9da03ca9059e")
 		(property "Reference" "R12"
-			(at 64.77 16.5099 0)
+			(at 59.69 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22005,7 +22154,7 @@
 			)
 		)
 		(property "Value" "0815"
-			(at 64.77 19.0499 0)
+			(at 59.69 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22014,7 +22163,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0815_2038Metric"
-			(at 60.452 17.78 90)
+			(at 64.008 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22023,7 +22172,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 17.78 0)
+			(at 62.23 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22032,7 +22181,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 62.23 17.78 0)
+			(at 62.23 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22057,15 +22206,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -53.34 25.4 0)
+		(at 238.76 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "78c588ad-27f3-4c3f-a35a-838197c6c24f")
 		(property "Reference" "C19"
-			(at -50.038 24.13 0)
+			(at 242.062 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22074,7 +22223,7 @@
 			)
 		)
 		(property "Value" "1812"
-			(at -50.292 26.67 0)
+			(at 241.808 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22083,7 +22232,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric"
-			(at -52.3748 29.21 0)
+			(at 239.7252 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22092,7 +22241,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -53.34 25.4 0)
+			(at 238.76 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22101,7 +22250,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -53.34 25.4 0)
+			(at 238.76 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22126,16 +22275,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 54.61 -7.62 90)
+		(at 100.33 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "79513f4e-9dea-43a2-adb6-0e484438916a")
 		(property "Reference" "L3"
-			(at 54.61 -13.208 90)
+			(at 100.33 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22143,7 +22291,7 @@
 			)
 		)
 		(property "Value" "1812"
-			(at 54.61 -10.414 90)
+			(at 100.33 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22151,7 +22299,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_1812_4532Metric"
-			(at 54.61 -7.62 0)
+			(at 100.33 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22160,7 +22308,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 -7.62 0)
+			(at 100.33 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22169,7 +22317,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 54.61 -7.62 0)
+			(at 100.33 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22194,16 +22342,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 35.56 8.89 0)
+		(at 172.72 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7ad023b4-4699-464c-aea7-a23640eeb4bf")
 		(property "Reference" "C12"
-			(at 39.37 6.7309 0)
+			(at 176.53 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22212,7 +22360,7 @@
 			)
 		)
 		(property "Value" "8"
-			(at 39.37 9.2709 0)
+			(at 176.53 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22221,7 +22369,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10.5"
-			(at 36.5252 12.7 0)
+			(at 173.6852 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22230,7 +22378,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 35.56 8.89 0)
+			(at 172.72 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22239,7 +22387,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 35.56 8.89 0)
+			(at 172.72 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22264,15 +22412,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -133.35 25.4 0)
+		(at 158.75 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7f3a086c-af2c-49f9-bbc1-0c1554d50794")
 		(property "Reference" "C2"
-			(at -130.048 24.13 0)
+			(at 162.052 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22281,7 +22429,7 @@
 			)
 		)
 		(property "Value" "0402"
-			(at -130.302 26.67 0)
+			(at 161.798 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22290,7 +22438,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at -132.3848 29.21 0)
+			(at 159.7152 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22299,7 +22447,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -133.35 25.4 0)
+			(at 158.75 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22308,7 +22456,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -133.35 25.4 0)
+			(at 158.75 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22333,16 +22481,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 54.61 24.13 0)
+		(at 77.47 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "83f86366-c586-473e-ab4b-2ee2fc38a6b6")
 		(property "Reference" "R4"
-			(at 57.15 22.8599 0)
+			(at 74.93 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22351,7 +22499,7 @@
 			)
 		)
 		(property "Value" "0805"
-			(at 57.15 25.3999 0)
+			(at 74.93 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22360,7 +22508,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 52.832 24.13 90)
+			(at 79.248 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22369,7 +22517,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 24.13 0)
+			(at 77.47 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22378,7 +22526,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 54.61 24.13 0)
+			(at 77.47 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22403,16 +22551,15 @@
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32F0:STM32F072RBIx")
-		(at 320.04 77.47 0)
+		(at 382.27 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "843726a0-17d7-45ad-bab2-b1b888cf0ffb")
 		(property "Reference" "U18"
-			(at 324.7233 125.73 0)
+			(at 388.874 126.238 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22421,7 +22568,7 @@
 			)
 		)
 		(property "Value" "STM32F072RBIx"
-			(at 324.7233 128.27 0)
+			(at 388.874 128.778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22430,7 +22577,7 @@
 			)
 		)
 		(property "Footprint" "Package_BGA:UFBGA-64_5x5mm_Layout8x8_P0.5mm"
-			(at 304.8 123.19 0)
+			(at 367.03 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22440,7 +22587,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f072rb.pdf"
-			(at 320.04 77.47 0)
+			(at 382.27 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22449,7 +22596,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M0 MCU, 128KB flash, 16KB RAM, 48 MHz, 2.0-3.6V, 51 GPIO, UFBGA64"
-			(at 320.04 77.47 0)
+			(at 382.27 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22660,16 +22807,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LTC6226xDC")
-		(at 13.97 105.41 0)
+		(at 43.18 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "86f88616-150d-472e-94bd-afeda3740855")
 		(property "Reference" "U21"
-			(at 26.67 98.9898 0)
+			(at 55.88 69.7798 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22677,7 +22824,7 @@
 			)
 		)
 		(property "Value" "LTC6226xDC"
-			(at 26.67 101.5298 0)
+			(at 55.88 72.3198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22685,7 +22832,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.5mm_EP0.6x1.37mm"
-			(at 13.97 120.65 0)
+			(at 43.18 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22694,7 +22841,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc6226-6227.pdf"
-			(at 13.97 105.41 0)
+			(at 43.18 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22703,7 +22850,7 @@
 			)
 		)
 		(property "Description" "420MHz GBW, 180V/μs, 1nV/√Hz, RRO, 95μV max offset, 2.8..11.75V OpAmp with shutdown, WDFN-6 (WSON-6)"
-			(at 13.97 105.41 0)
+			(at 43.18 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22743,16 +22890,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 17.78 0)
+		(at 21.59 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8925cb85-ebdb-4f7a-ab00-6301be9d62eb")
 		(property "Reference" "R16"
-			(at 105.41 16.5099 0)
+			(at 19.05 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22761,7 +22908,7 @@
 			)
 		)
 		(property "Value" "2816"
-			(at 105.41 19.0499 0)
+			(at 19.05 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22770,7 +22917,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2816_7142Metric"
-			(at 101.092 17.78 90)
+			(at 23.368 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22779,7 +22926,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 17.78 0)
+			(at 21.59 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22788,7 +22935,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 102.87 17.78 0)
+			(at 21.59 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22813,15 +22960,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 96.52 -7.62 90)
+		(at 152.4 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8b02caee-fb7a-4da2-bbb5-1686e38bf28a")
 		(property "Reference" "L7"
-			(at 96.52 -12.954 90)
+			(at 152.4 259.334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22829,7 +22976,7 @@
 			)
 		)
 		(property "Value" "10.4x10.4"
-			(at 96.52 -10.414 90)
+			(at 152.4 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22837,7 +22984,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_10.4x10.4_H4.8"
-			(at 96.52 -7.62 0)
+			(at 152.4 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22846,7 +22993,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 -7.62 0)
+			(at 152.4 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22855,7 +23002,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 96.52 -7.62 0)
+			(at 152.4 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22880,16 +23027,16 @@
 	)
 	(symbol
 		(lib_id "Driver_LED:iC-HTG")
-		(at -5.08 218.44 0)
+		(at 95.25 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8b53c9ee-168e-4580-9d53-b4742598b925")
 		(property "Reference" "U7"
-			(at -2.9367 241.3 0)
+			(at 97.3933 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22898,7 +23045,7 @@
 			)
 		)
 		(property "Value" "iC-HTG"
-			(at -2.9367 243.84 0)
+			(at 97.3933 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22907,7 +23054,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm"
-			(at 33.02 247.65 0)
+			(at 133.35 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22916,7 +23063,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ichaus.de/product/ic-htg/#documents"
-			(at 29.21 251.46 0)
+			(at 129.54 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22925,7 +23072,7 @@
 			)
 		)
 		(property "Description" "CW power laser diode driver, external driver transistor, integrated DAC & ADC, SPI or I2C, 3 to 24V supply, temperature monitor, HVQFN-24"
-			(at -5.08 218.44 0)
+			(at 95.25 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23019,15 +23166,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -76.2 25.4 0)
+		(at 215.9 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8cf5842f-a758-4a0b-be06-62455fec57af")
 		(property "Reference" "C17"
-			(at -72.898 24.13 0)
+			(at 219.202 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23036,7 +23183,7 @@
 			)
 		)
 		(property "Value" "1210"
-			(at -73.152 26.67 0)
+			(at 218.948 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23045,7 +23192,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at -75.2348 29.21 0)
+			(at 216.8652 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23054,7 +23201,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -76.2 25.4 0)
+			(at 215.9 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23063,7 +23210,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -76.2 25.4 0)
+			(at 215.9 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23088,16 +23235,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 67.31 8.89 0)
+		(at 204.47 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8f0f469a-b617-4f0f-b63b-8e0d7aaf4586")
 		(property "Reference" "C15"
-			(at 71.12 6.7309 0)
+			(at 208.28 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23106,7 +23253,7 @@
 			)
 		)
 		(property "Value" "4"
-			(at 71.12 9.2709 0)
+			(at 208.28 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23115,7 +23262,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_4x5.3"
-			(at 68.2752 12.7 0)
+			(at 205.4352 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23124,7 +23271,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 8.89 0)
+			(at 204.47 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23133,7 +23280,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 67.31 8.89 0)
+			(at 204.47 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23158,16 +23305,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Current:INA181")
-		(at 125.73 62.23 0)
+		(at 209.55 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8f681d81-81ab-492f-a2bc-b3d04e72cdd2")
 		(property "Reference" "U20"
-			(at 128.016 56.896 0)
+			(at 211.836 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23175,7 +23322,7 @@
 			)
 		)
 		(property "Value" "INA181"
-			(at 135.89 58.3498 0)
+			(at 219.71 43.1098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23183,7 +23330,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 127 60.96 0)
+			(at 210.82 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23192,7 +23339,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina181.pdf"
-			(at 129.54 58.42 0)
+			(at 213.36 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23201,7 +23348,7 @@
 			)
 		)
 		(property "Description" "Bidirectional, Low- and High-Side Voltage Output, Current-Sense Amplifier, SOT-23-6"
-			(at 125.73 62.23 0)
+			(at 209.55 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23238,16 +23385,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 66.04 36.83 0)
+		(at 273.05 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "937c8235-70a6-4020-96bb-6f075e799ed0")
 		(property "Reference" "C10"
-			(at 69.85 34.6709 0)
+			(at 276.86 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23256,7 +23403,7 @@
 			)
 		)
 		(property "Value" "5"
-			(at 69.85 37.2109 0)
+			(at 276.86 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23265,7 +23412,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 67.0052 40.64 0)
+			(at 274.0152 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23274,7 +23421,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 36.83 0)
+			(at 273.05 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23283,7 +23430,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 66.04 36.83 0)
+			(at 273.05 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23308,15 +23455,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -64.77 25.4 0)
+		(at 227.33 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "95158036-b309-468d-a07d-03a9481c1d60")
 		(property "Reference" "C18"
-			(at -61.468 24.13 0)
+			(at 230.632 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23325,7 +23472,7 @@
 			)
 		)
 		(property "Value" "1808"
-			(at -61.722 26.67 0)
+			(at 230.378 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23334,7 +23481,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1808_4520Metric"
-			(at -63.8048 29.21 0)
+			(at 228.2952 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23343,7 +23490,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -64.77 25.4 0)
+			(at 227.33 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23352,7 +23499,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -64.77 25.4 0)
+			(at 227.33 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23377,16 +23524,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 55.88 36.83 0)
+		(at 262.89 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9545c454-1875-4ed5-a68f-17fb68aeced1")
 		(property "Reference" "C8"
-			(at 59.69 34.6709 0)
+			(at 266.7 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23395,7 +23542,7 @@
 			)
 		)
 		(property "Value" "6.3"
-			(at 59.69 37.2109 0)
+			(at 266.7 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23404,7 +23551,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
-			(at 56.8452 40.64 0)
+			(at 263.8552 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23413,7 +23560,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 36.83 0)
+			(at 262.89 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23422,7 +23569,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 55.88 36.83 0)
+			(at 262.89 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23447,16 +23594,16 @@
 	)
 	(symbol
 		(lib_id "Audio:THAT6261")
-		(at 34.29 224.79 0)
+		(at 143.51 219.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9e6144e4-ff65-405e-9ae3-d98623951626")
 		(property "Reference" "U17"
-			(at 55.88 215.8298 0)
+			(at 165.1 210.7498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23464,7 +23611,7 @@
 			)
 		)
 		(property "Value" "THAT6261"
-			(at 55.88 218.3698 0)
+			(at 165.1 213.2898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23472,7 +23619,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.45x5.45mm"
-			(at 34.29 224.79 0)
+			(at 143.51 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23481,7 +23628,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf"
-			(at 31.75 227.33 0)
+			(at 140.97 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23490,7 +23637,7 @@
 			)
 		)
 		(property "Description" "2-Channel Low-Noise Programmable-Gain Preamplifier - ADC Driver IC, 1dB Step, QFN-48"
-			(at 34.29 224.79 0)
+			(at 143.51 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23656,16 +23803,16 @@
 	)
 	(symbol
 		(lib_id "Audio:WM8731CLSEFL")
-		(at 80.01 165.1 0)
+		(at 189.23 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9fdbdbf0-1f06-4c20-8436-84bd0c7c2748")
 		(property "Reference" "U24"
-			(at 87.2333 187.96 0)
+			(at 196.4533 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23674,7 +23821,7 @@
 			)
 		)
 		(property "Value" "WM8731CLSEFL"
-			(at 87.2333 190.5 0)
+			(at 196.4533 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23683,7 +23830,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm"
-			(at 80.01 198.12 0)
+			(at 189.23 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23692,7 +23839,7 @@
 			)
 		)
 		(property "Datasheet" "https://statics.cirrus.com/pubs/proDatasheet/WM8731_v4.9.pdf"
-			(at 80.01 165.1 0)
+			(at 189.23 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23701,7 +23848,7 @@
 			)
 		)
 		(property "Description" "Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates, QFN-28"
-			(at 80.01 165.1 0)
+			(at 189.23 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23807,15 +23954,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -110.49 25.4 0)
+		(at 181.61 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a3a04b81-8f8f-4809-849b-2248cb8747c9")
 		(property "Reference" "C4"
-			(at -107.188 24.13 0)
+			(at 184.912 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23824,7 +23971,7 @@
 			)
 		)
 		(property "Value" "0603"
-			(at -107.442 26.67 0)
+			(at 184.658 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23833,7 +23980,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at -109.5248 29.21 0)
+			(at 182.5752 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23842,7 +23989,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -110.49 25.4 0)
+			(at 181.61 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23851,7 +23998,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -110.49 25.4 0)
+			(at 181.61 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23876,16 +24023,16 @@
 	)
 	(symbol
 		(lib_id "Diode:SMF5V0A")
-		(at 109.22 81.28 270)
+		(at 203.2 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a3d24987-2584-4490-aa54-e2e44e739c4f")
 		(property "Reference" "D7"
-			(at 111.76 80.0099 90)
+			(at 205.74 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23894,7 +24041,7 @@
 			)
 		)
 		(property "Value" "SMF5V0A"
-			(at 111.76 82.5499 90)
+			(at 205.74 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23903,7 +24050,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 104.14 81.28 0)
+			(at 198.12 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23912,7 +24059,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 109.22 80.01 0)
+			(at 203.2 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23921,7 +24068,7 @@
 			)
 		)
 		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
-			(at 109.22 81.28 0)
+			(at 203.2 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23946,16 +24093,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 44.45 -7.62 90)
+		(at 80.01 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "a577c564-775a-4b00-9564-ac028841656d")
 		(property "Reference" "L2"
-			(at 44.45 -13.208 90)
+			(at 80.01 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23963,7 +24109,7 @@
 			)
 		)
 		(property "Value" "1210"
-			(at 44.45 -10.414 90)
+			(at 80.01 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23971,7 +24117,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_1210_3225Metric"
-			(at 44.45 -7.62 0)
+			(at 80.01 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23980,7 +24126,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 -7.62 0)
+			(at 80.01 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23989,7 +24135,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 44.45 -7.62 0)
+			(at 80.01 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24014,15 +24160,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 24.13 -7.62 90)
+		(at 49.53 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a64ad99c-6b09-424b-971e-d6dd84a668f1")
 		(property "Reference" "L11"
-			(at 24.13 -11.43 90)
+			(at 49.53 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24030,7 +24176,7 @@
 			)
 		)
 		(property "Value" "0805"
-			(at 24.13 -9.398 90)
+			(at 49.53 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24038,7 +24184,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
-			(at 24.13 -7.62 0)
+			(at 49.53 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24047,7 +24193,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 -7.62 0)
+			(at 49.53 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24056,7 +24202,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 24.13 -7.62 0)
+			(at 49.53 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24081,16 +24227,16 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMG1012T")
-		(at 101.6 62.23 0)
+		(at 185.42 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "abbac3db-c81f-44c3-a783-860c7752165e")
 		(property "Reference" "Q1"
-			(at 107.95 61.6584 0)
+			(at 191.77 46.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24099,7 +24245,7 @@
 			)
 		)
 		(property "Value" "DMG1012T"
-			(at 107.95 64.1984 0)
+			(at 191.77 48.9584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24108,7 +24254,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-523"
-			(at 106.68 64.135 0)
+			(at 190.5 48.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24118,7 +24264,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds31783.pdf"
-			(at 106.68 66.04 0)
+			(at 190.5 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24128,7 +24274,7 @@
 			)
 		)
 		(property "Description" "20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523"
-			(at 101.6 62.23 0)
+			(at 185.42 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24156,15 +24302,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -41.91 25.4 0)
+		(at 250.19 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "acc54269-b375-4073-bc84-dbd7f4768232")
 		(property "Reference" "C20"
-			(at -38.608 24.13 0)
+			(at 253.492 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24173,7 +24319,7 @@
 			)
 		)
 		(property "Value" "1825"
-			(at -38.862 26.67 0)
+			(at 253.238 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24182,7 +24328,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1825_4564Metric"
-			(at -40.9448 29.21 0)
+			(at 251.1552 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24191,7 +24337,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -41.91 25.4 0)
+			(at 250.19 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24200,7 +24346,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -41.91 25.4 0)
+			(at 250.19 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24225,16 +24371,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 64.77 -7.62 90)
+		(at 120.65 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "ad2c97b5-73bb-42ff-9f87-f017961d72c3")
 		(property "Reference" "L4"
-			(at 64.77 -13.208 90)
+			(at 120.65 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24242,7 +24387,7 @@
 			)
 		)
 		(property "Value" "2512"
-			(at 64.77 -10.414 90)
+			(at 120.65 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24250,7 +24395,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_2512_6332Metric"
-			(at 64.77 -7.62 0)
+			(at 120.65 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24259,7 +24404,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 -7.62 0)
+			(at 120.65 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24268,7 +24413,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 64.77 -7.62 0)
+			(at 120.65 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24293,16 +24438,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 74.93 -7.62 90)
+		(at 130.81 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "b213e502-e418-4a9f-96b0-396e24cce687")
 		(property "Reference" "L5"
-			(at 74.93 -13.208 90)
+			(at 130.81 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24310,7 +24454,7 @@
 			)
 		)
 		(property "Value" "6.3x6.3"
-			(at 74.93 -10.414 90)
+			(at 130.81 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24318,7 +24462,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
-			(at 74.93 -7.62 0)
+			(at 130.81 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24327,7 +24471,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 74.93 -7.62 0)
+			(at 130.81 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24336,7 +24480,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 74.93 -7.62 0)
+			(at 130.81 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24361,15 +24505,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 27.94 -17.78 90)
+		(at 69.85 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b2a35eae-e212-45bf-9db2-3f9b2580c0cc")
 		(property "Reference" "L12"
-			(at 27.94 -21.59 90)
+			(at 69.85 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24377,7 +24521,7 @@
 			)
 		)
 		(property "Value" "1206"
-			(at 27.94 -19.558 90)
+			(at 69.85 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24385,7 +24529,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
-			(at 27.94 -17.78 0)
+			(at 69.85 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24394,7 +24538,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 -17.78 0)
+			(at 69.85 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24403,7 +24547,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 27.94 -17.78 0)
+			(at 69.85 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24428,16 +24572,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LTC6269xDD")
-		(at -7.62 106.68 0)
+		(at 43.18 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b7131873-7737-4773-8c8d-eb3480e4f4ce")
 		(property "Reference" "U23"
-			(at -7.62 96.52 0)
+			(at 43.18 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24445,7 +24589,7 @@
 			)
 		)
 		(property "Value" "LTC6269xDD"
-			(at -7.62 99.06 0)
+			(at 43.18 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24453,7 +24597,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
-			(at -7.62 116.84 0)
+			(at 43.18 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24462,7 +24606,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/62689f.pdf"
-			(at -7.62 106.68 0)
+			(at 43.18 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24471,7 +24615,7 @@
 			)
 		)
 		(property "Description" "Dual 500MHz Ultra-Low Bias  Current FET Input Op Amps with Shutdown, DFN-10"
-			(at -7.62 106.68 0)
+			(at 43.18 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24523,16 +24667,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 82.55 17.78 0)
+		(at 41.91 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b87823d4-b13e-44ca-9a94-1264ba74b126")
 		(property "Reference" "R14"
-			(at 85.09 16.5099 0)
+			(at 39.37 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24541,7 +24685,7 @@
 			)
 		)
 		(property "Value" "1218"
-			(at 85.09 19.0499 0)
+			(at 39.37 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24550,7 +24694,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1218_3246Metric"
-			(at 80.772 17.78 90)
+			(at 43.688 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24559,7 +24703,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 17.78 0)
+			(at 41.91 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24568,7 +24712,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 82.55 17.78 0)
+			(at 41.91 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24593,16 +24737,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 34.29 24.13 0)
+		(at 97.79 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bc7868fe-1911-41c3-bbc2-867ec5e410af")
 		(property "Reference" "R2"
-			(at 36.83 22.8599 0)
+			(at 95.25 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24611,7 +24755,7 @@
 			)
 		)
 		(property "Value" "0402"
-			(at 36.83 25.3999 0)
+			(at 95.25 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24620,7 +24764,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 32.512 24.13 90)
+			(at 99.568 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24629,7 +24773,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 34.29 24.13 0)
+			(at 97.79 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24638,7 +24782,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 34.29 24.13 0)
+			(at 97.79 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24663,16 +24807,16 @@
 	)
 	(symbol
 		(lib_id "Driver_LED:PCA9685PW")
-		(at 162.56 158.75 0)
+		(at 267.97 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "be30d65b-57f7-4eda-8ae3-9b294b934b9c")
 		(property "Reference" "U27"
-			(at 164.7033 133.35 0)
+			(at 270.1133 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24681,7 +24825,7 @@
 			)
 		)
 		(property "Value" "PCA9685PW"
-			(at 164.7033 135.89 0)
+			(at 270.1133 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24690,7 +24834,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm"
-			(at 163.195 183.515 0)
+			(at 268.605 118.745 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24700,7 +24844,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf"
-			(at 152.4 140.97 0)
+			(at 257.81 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24709,7 +24853,7 @@
 			)
 		)
 		(property "Description" "16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP"
-			(at 162.56 158.75 0)
+			(at 267.97 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24812,16 +24956,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 24.13 24.13 0)
+		(at 107.95 269.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "be864bf0-6d13-417b-b2cc-e8e2c8bc27c6")
 		(property "Reference" "R1"
-			(at 26.67 22.8599 0)
+			(at 105.41 270.5101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24830,7 +24974,7 @@
 			)
 		)
 		(property "Value" "0201"
-			(at 26.67 25.3999 0)
+			(at 105.41 267.9701 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24839,7 +24983,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 22.352 24.13 90)
+			(at 109.728 269.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24848,7 +24992,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 24.13 0)
+			(at 107.95 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24857,7 +25001,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 24.13 24.13 0)
+			(at 107.95 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24882,16 +25026,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 34.29 36.83 0)
+		(at 241.3 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c4c21082-f114-4c15-ab33-694dd91f1b11")
 		(property "Reference" "C7"
-			(at 38.1 34.6709 0)
+			(at 245.11 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24900,7 +25044,7 @@
 			)
 		)
 		(property "Value" "8"
-			(at 38.1 37.2109 0)
+			(at 245.11 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24909,7 +25053,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
-			(at 35.2552 40.64 0)
+			(at 242.2652 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24918,7 +25062,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 34.29 36.83 0)
+			(at 241.3 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24927,7 +25071,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 34.29 36.83 0)
+			(at 241.3 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24952,16 +25096,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Current:INA240A1PW")
-		(at 134.62 114.3 0)
+		(at 240.03 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c4ed618d-5e62-44ff-9123-efcfcc084c06")
 		(property "Reference" "U11"
-			(at 147.32 107.8798 0)
+			(at 252.73 43.1098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24969,7 +25113,7 @@
 			)
 		)
 		(property "Value" "INA240A1PW"
-			(at 147.32 110.4198 0)
+			(at 252.73 45.6498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24977,7 +25121,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
-			(at 134.62 130.81 0)
+			(at 240.03 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24986,7 +25130,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina240.pdf"
-			(at 138.43 110.49 0)
+			(at 243.84 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24995,7 +25139,7 @@
 			)
 		)
 		(property "Description" "High- and Low-Side, Bidirectional, Zero-Drift, Current-Sense Amplifier With Enhanced PWM Rejection, 20V/V, TSSOP-8"
-			(at 134.62 114.3 0)
+			(at 240.03 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25038,16 +25182,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 52.07 17.78 0)
+		(at 72.39 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c51d5584-a281-4aca-bc24-81f9983b8126")
 		(property "Reference" "R11"
-			(at 54.61 16.5099 0)
+			(at 69.85 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25056,7 +25200,7 @@
 			)
 		)
 		(property "Value" "0612"
-			(at 54.61 19.0499 0)
+			(at 69.85 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25065,7 +25209,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
-			(at 50.292 17.78 90)
+			(at 74.168 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25074,7 +25218,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 17.78 0)
+			(at 72.39 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25083,7 +25227,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 52.07 17.78 0)
+			(at 72.39 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25108,16 +25252,16 @@
 	)
 	(symbol
 		(lib_id "Battery_Management:BQ25570")
-		(at 78.74 219.71 0)
+		(at 187.96 214.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c669fa0e-b778-4120-8ef5-fb023a60de24")
 		(property "Reference" "U25"
-			(at 80.8833 237.49 0)
+			(at 190.1033 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25126,7 +25270,7 @@
 			)
 		)
 		(property "Value" "BQ25570"
-			(at 80.8833 240.03 0)
+			(at 190.1033 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25135,7 +25279,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_3.5x3.5mm_P0.5mm_EP2x2mm"
-			(at 78.74 224.79 0)
+			(at 187.96 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25144,7 +25288,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/bq25570.pdf"
-			(at 88.9 189.23 0)
+			(at 198.12 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25153,7 +25297,7 @@
 			)
 		)
 		(property "Description" "Nano Power Boost Charger and Buck Converter for Energy Harvester Powered Applications, QFN-20"
-			(at 78.74 219.71 0)
+			(at 187.96 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25235,16 +25379,16 @@
 	)
 	(symbol
 		(lib_id "74xx:74HC4024")
-		(at 186.69 -52.07 0)
+		(at 100.33 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c78b32a1-6334-4aff-9a76-d29c96d83e5e")
 		(property "Reference" "U9"
-			(at 188.8333 -67.31 0)
+			(at 102.4733 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25253,7 +25397,7 @@
 			)
 		)
 		(property "Value" "74HC4024"
-			(at 188.8333 -64.77 0)
+			(at 102.4733 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25262,7 +25406,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 186.69 -53.34 0)
+			(at 100.33 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25271,7 +25415,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/74HC4024.pdf"
-			(at 186.69 -53.34 0)
+			(at 100.33 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25280,7 +25424,7 @@
 			)
 		)
 		(property "Description" "7-stage binary ripple counter, SOIC-14"
-			(at 186.69 -52.07 0)
+			(at 100.33 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25341,15 +25485,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -87.63 25.4 0)
+		(at 204.47 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cdef76a6-38fd-4c3c-a0b3-5f2e0199d92d")
 		(property "Reference" "C16"
-			(at -84.328 24.13 0)
+			(at 207.772 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25358,7 +25502,7 @@
 			)
 		)
 		(property "Value" "1206"
-			(at -84.582 26.67 0)
+			(at 207.518 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25367,7 +25511,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at -86.6648 29.21 0)
+			(at 205.4352 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25376,7 +25520,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -87.63 25.4 0)
+			(at 204.47 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25385,7 +25529,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -87.63 25.4 0)
+			(at 204.47 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25410,16 +25554,16 @@
 	)
 	(symbol
 		(lib_id "Diode:Z2SMBxxx")
-		(at 76.2 81.28 270)
+		(at 170.18 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d17ce906-c797-418b-aec2-639bd0f1817a")
 		(property "Reference" "D4"
-			(at 78.74 80.0099 90)
+			(at 172.72 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25428,7 +25572,7 @@
 			)
 		)
 		(property "Value" "Z2SMBxxx"
-			(at 78.74 82.5499 90)
+			(at 172.72 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25437,7 +25581,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMB"
-			(at 71.755 81.28 0)
+			(at 165.735 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25446,7 +25590,7 @@
 			)
 		)
 		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/z2smb1.pdf"
-			(at 76.2 81.28 0)
+			(at 170.18 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25455,7 +25599,7 @@
 			)
 		)
 		(property "Description" "2000mW Zener Diode, SMB(DO-214AA)"
-			(at 76.2 81.28 0)
+			(at 170.18 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25480,15 +25624,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 2.54 -20.32 90)
+		(at 90.17 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d604fbf4-15b5-4714-bca2-d2c2a2cc67d8")
 		(property "Reference" "L13"
-			(at 2.54 -24.13 90)
+			(at 90.17 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25496,7 +25640,7 @@
 			)
 		)
 		(property "Value" "1806"
-			(at 2.54 -22.098 90)
+			(at 90.17 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25504,7 +25648,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_1806_4516Metric"
-			(at 2.54 -20.32 0)
+			(at 90.17 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25513,7 +25657,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 2.54 -20.32 0)
+			(at 90.17 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25522,7 +25666,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 2.54 -20.32 0)
+			(at 90.17 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25547,16 +25691,16 @@
 	)
 	(symbol
 		(lib_id "Diode:BAS16W")
-		(at 15.24 62.23 270)
+		(at 93.98 46.99 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d94aa308-dc4b-438a-ba9c-a2089f47de69")
 		(property "Reference" "D5"
-			(at 17.78 60.9599 90)
+			(at 96.52 45.7199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25565,7 +25709,7 @@
 			)
 		)
 		(property "Value" "BAS16W"
-			(at 17.78 63.4999 90)
+			(at 96.52 48.2599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25574,7 +25718,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 10.795 62.23 0)
+			(at 89.535 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25583,7 +25727,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf"
-			(at 15.24 62.23 0)
+			(at 93.98 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25592,7 +25736,7 @@
 			)
 		)
 		(property "Description" "100V, 0.175A, High-speed Switching Diode, SOT-323"
-			(at 15.24 62.23 0)
+			(at 93.98 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25620,16 +25764,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 72.39 17.78 0)
+		(at 52.07 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dd9f7bc2-9bee-4af8-a9d0-a470bbc33e07")
 		(property "Reference" "R13"
-			(at 74.93 16.5099 0)
+			(at 49.53 278.1301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25638,7 +25782,7 @@
 			)
 		)
 		(property "Value" "1020"
-			(at 74.93 19.0499 0)
+			(at 49.53 275.5901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25647,7 +25791,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1020_2550Metric"
-			(at 70.612 17.78 90)
+			(at 53.848 276.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25656,7 +25800,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 72.39 17.78 0)
+			(at 52.07 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25665,7 +25809,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 72.39 17.78 0)
+			(at 52.07 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25690,16 +25834,16 @@
 	)
 	(symbol
 		(lib_id "Driver_Display:XPT2046TS")
-		(at 196.85 115.57 0)
+		(at 302.26 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "de4fec6a-ad5f-4323-9e4c-47051e1086a2")
 		(property "Reference" "U13"
-			(at 202.438 128.524 0)
+			(at 307.848 63.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25708,7 +25852,7 @@
 			)
 		)
 		(property "Value" "XPT2046TS"
-			(at 202.438 131.064 0)
+			(at 307.848 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25717,7 +25861,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
-			(at 196.85 130.81 0)
+			(at 302.26 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25727,7 +25871,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.xptek.cn/uploadfile/download/201707171401161883.pdf"
-			(at 201.93 129.54 0)
+			(at 307.34 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25736,7 +25880,7 @@
 			)
 		)
 		(property "Description" "Single-supply, 12bit, 4 ch, touch screen driver, 2.2 - 5.25 VDD, -40 to +85 C, QSPI, SPI, 3-wire serial interface, TSSOP-16"
-			(at 196.85 115.57 0)
+			(at 302.26 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25803,16 +25947,16 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:LM317_SOT-223")
-		(at 62.23 59.69 0)
+		(at 137.16 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e4adb9d9-040f-475a-b9fe-546d19c64a4b")
 		(property "Reference" "U2"
-			(at 62.23 53.34 0)
+			(at 137.16 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25820,7 +25964,7 @@
 			)
 		)
 		(property "Value" "LM317_SOT-223"
-			(at 62.23 55.88 0)
+			(at 137.16 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25828,7 +25972,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-			(at 62.23 53.34 0)
+			(at 137.16 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25838,7 +25982,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm317.pdf"
-			(at 62.23 59.69 0)
+			(at 137.16 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25847,7 +25991,7 @@
 			)
 		)
 		(property "Description" "1.5A 35V Adjustable Linear Regulator, SOT-223"
-			(at 62.23 59.69 0)
+			(at 137.16 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25875,15 +26019,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -121.92 25.4 0)
+		(at 170.18 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ea000086-f41b-45ce-aabc-bda90e144bf8")
 		(property "Reference" "C3"
-			(at -118.618 24.13 0)
+			(at 173.482 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25892,7 +26036,7 @@
 			)
 		)
 		(property "Value" "0504"
-			(at -118.872 26.67 0)
+			(at 173.228 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25901,7 +26045,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0504_1310Metric"
-			(at -120.9548 29.21 0)
+			(at 171.1452 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25910,7 +26054,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -121.92 25.4 0)
+			(at 170.18 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25919,7 +26063,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -121.92 25.4 0)
+			(at 170.18 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25944,16 +26088,16 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:LM317L_SOT-89")
-		(at 83.82 59.69 0)
+		(at 172.72 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ea82339b-6a26-4655-8f26-1c8aae2c6b60")
 		(property "Reference" "U3"
-			(at 83.82 53.34 0)
+			(at 172.72 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25961,7 +26105,7 @@
 			)
 		)
 		(property "Value" "LM317L_SOT-89"
-			(at 83.82 55.88 0)
+			(at 172.72 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25969,7 +26113,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3"
-			(at 83.82 53.34 0)
+			(at 172.72 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25979,7 +26123,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm317l.pdf"
-			(at 83.82 59.69 0)
+			(at 172.72 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25988,7 +26132,7 @@
 			)
 		)
 		(property "Description" "100mA 35V Adjustable Linear Regulator, SOT-89"
-			(at 83.82 59.69 0)
+			(at 172.72 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26016,16 +26160,16 @@
 	)
 	(symbol
 		(lib_id "Diode:1.5SMCxxA")
-		(at 92.71 81.28 270)
+		(at 186.69 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ed6c6d5c-9e12-41ed-b974-e3eb2ffdc9f8")
 		(property "Reference" "D6"
-			(at 95.25 80.0099 90)
+			(at 189.23 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26034,7 +26178,7 @@
 			)
 		)
 		(property "Value" "1.5SMCxxA"
-			(at 95.25 82.5499 90)
+			(at 189.23 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26043,7 +26187,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMC"
-			(at 87.63 81.28 0)
+			(at 181.61 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26052,7 +26196,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88303/15smc.pdf"
-			(at 92.71 80.01 0)
+			(at 186.69 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26061,7 +26205,7 @@
 			)
 		)
 		(property "Description" "1500W unidirectional TVS diode, SMC (DO-201AB)"
-			(at 92.71 81.28 0)
+			(at 186.69 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26086,16 +26230,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 25.4 8.89 0)
+		(at 162.56 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f15566de-61bf-43cf-84b7-f7e3da02ed31")
 		(property "Reference" "C11"
-			(at 29.21 6.7309 0)
+			(at 166.37 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26104,7 +26248,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 29.21 9.2709 0)
+			(at 166.37 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26113,7 +26257,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
-			(at 26.3652 12.7 0)
+			(at 163.5252 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26122,7 +26266,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 8.89 0)
+			(at 162.56 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26131,7 +26275,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 25.4 8.89 0)
+			(at 162.56 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26156,16 +26300,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 34.29 -7.62 90)
+		(at 59.69 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
+		(dnp yes)
 		(uuid "f3062189-8b55-43cb-bf45-0130aa447057")
 		(property "Reference" "L1"
-			(at 34.29 -13.208 90)
+			(at 59.69 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26173,7 +26316,7 @@
 			)
 		)
 		(property "Value" "1008"
-			(at 34.29 -10.414 90)
+			(at 59.69 261.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26181,7 +26324,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
-			(at 34.29 -7.62 0)
+			(at 59.69 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26190,7 +26333,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 34.29 -7.62 0)
+			(at 59.69 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26199,7 +26342,7 @@
 			)
 		)
 		(property "Description" "Inductor"
-			(at 34.29 -7.62 0)
+			(at 59.69 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26224,16 +26367,16 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148W")
-		(at 31.75 81.28 270)
+		(at 101.6 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f97446d5-c713-4a9a-a355-175a6d767422")
 		(property "Reference" "D1"
-			(at 34.29 80.0099 90)
+			(at 104.14 59.6899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26242,7 +26385,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 34.29 82.5499 90)
+			(at 104.14 62.2299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26251,7 +26394,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 27.305 81.28 0)
+			(at 97.155 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26260,7 +26403,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/85748/1n4148w.pdf"
-			(at 31.75 81.28 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26269,7 +26412,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast Switching Diode, SOD-123"
-			(at 31.75 81.28 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26278,7 +26421,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 31.75 81.28 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26287,7 +26430,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 31.75 81.28 0)
+			(at 101.6 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26312,16 +26455,16 @@
 	)
 	(symbol
 		(lib_id "Analog:AD630ARZ")
-		(at 156.21 -15.24 0)
+		(at 161.29 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fb17896e-c24d-4d29-ad43-038c19161c5e")
 		(property "Reference" "U29"
-			(at 158.3533 -36.83 0)
+			(at 163.4333 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26330,7 +26473,7 @@
 			)
 		)
 		(property "Value" "AD630ARZ"
-			(at 158.3533 -34.29 0)
+			(at 163.4333 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26339,7 +26482,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
-			(at 156.21 11.43 0)
+			(at 161.29 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26348,7 +26491,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ad630.pdf"
-			(at 146.05 -43.18 0)
+			(at 151.13 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26357,7 +26500,7 @@
 			)
 		)
 		(property "Description" "High precision Balanced Modulator/Demodulator, 2 MHz, SOIC-20W"
-			(at 156.21 -15.24 0)
+			(at 161.29 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26436,16 +26579,16 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LTC6362xDD")
-		(at 36.83 105.41 0)
+		(at 43.18 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fb2a7622-8b23-4282-9be5-2ed94e2a64f0")
 		(property "Reference" "U4"
-			(at 36.4333 93.98 0)
+			(at 42.7833 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26454,7 +26597,7 @@
 			)
 		)
 		(property "Value" "LTC6362xDD"
-			(at 36.4333 96.52 0)
+			(at 42.7833 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26463,7 +26606,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm"
-			(at 36.83 115.57 0)
+			(at 43.18 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26472,7 +26615,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/6362fa.pdf"
-			(at 36.83 107.95 0)
+			(at 43.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26481,7 +26624,7 @@
 			)
 		)
 		(property "Description" "Precision, Low Power, Rail-to-Rail Input/Output, Differential Op Amp/SAR ADC Driver, DFN-8"
-			(at 36.83 105.41 0)
+			(at 43.18 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26527,15 +26670,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at -30.48 25.4 0)
+		(at 261.62 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fb8c6d46-a5d8-4cab-a4e0-e237074526f4")
 		(property "Reference" "C21"
-			(at -27.178 24.13 0)
+			(at 264.922 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26544,7 +26687,7 @@
 			)
 		)
 		(property "Value" "2220"
-			(at -27.432 26.67 0)
+			(at 264.668 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26553,7 +26696,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
-			(at -29.5148 29.21 0)
+			(at 262.5852 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26562,7 +26705,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at -30.48 25.4 0)
+			(at 261.62 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26571,7 +26714,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at -30.48 25.4 0)
+			(at 261.62 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26596,16 +26739,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 55.88 8.89 0)
+		(at 193.04 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fe88106c-7334-4e10-9ed7-e75267d052a6")
 		(property "Reference" "C14"
-			(at 59.69 6.7309 0)
+			(at 196.85 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26614,7 +26757,7 @@
 			)
 		)
 		(property "Value" "5"
-			(at 59.69 9.2709 0)
+			(at 196.85 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26623,7 +26766,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.7"
-			(at 56.8452 12.7 0)
+			(at 194.0052 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26632,7 +26775,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 8.89 0)
+			(at 193.04 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26641,7 +26784,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 55.88 8.89 0)
+			(at 193.04 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26666,16 +26809,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 24.13 36.83 0)
+		(at 231.14 261.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ffd89602-5c93-4989-9dce-47a4f904a014")
 		(property "Reference" "C6"
-			(at 27.94 34.6709 0)
+			(at 234.95 259.4609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26684,7 +26827,7 @@
 			)
 		)
 		(property "Value" "10"
-			(at 27.94 37.2109 0)
+			(at 234.95 262.0009 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26693,7 +26836,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 25.0952 40.64 0)
+			(at 232.1052 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26702,7 +26845,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 24.13 36.83 0)
+			(at 231.14 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26711,7 +26854,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 24.13 36.83 0)
+			(at 231.14 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
