@@ -1,0 +1,1 @@
+{"eDesignSuite":{"Description":"NFC Inductance project","ver":"4","app":"antenna","filename":"","fileID":"","ic":{"partNumber":"M24LR64-R","key":"M24LR64-R:antenna"},"design":{"g_turns":"4","g_length":"20","g_width":"10","c_width":"0.6","c_spacing":"0.6","c_thickness":"35","s_thickness":"1.51","s_permittivity":"NaN"}}}
