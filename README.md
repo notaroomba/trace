@@ -39,6 +39,7 @@ A comprehensive PCB ruler with essential reference footprints, measurements, and
   - ICs (various packages)
 - **MOSFET channel type reference** silkscreen
 - **Useful conversions** on the back
+- **NFC Tag** to keep owner info / save more conversions/formulas/information
 
 ## PCB
 
