@@ -1,2 +1,8 @@
 Item,Cost,Source
 PCB,39.15,JLCPCB
+Capacitors,0.54,LCSC
+LEDs,0.59,LCSC
+Resistors,0.06,LCSC
+NFC Chips,3.00,LCSC
+Handling Fee (LCSC),3.00,LCSC
+Total,46.34,JLCPCB+LCSC

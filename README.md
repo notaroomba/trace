@@ -23,7 +23,7 @@ A comprehensive PCB ruler with essential reference footprints, measurements, and
   <a href="#license">License</a>
 </p>
 
-<img src="assets/pcb.png" alt="Trace PCB" width="800"/>
+<img src="blender/render.png" alt="Trace PCB" width="800"/>
 
 ## Key Features
 
