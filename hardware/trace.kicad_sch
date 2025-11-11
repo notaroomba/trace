@@ -18485,6 +18485,400 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "lcsc:17-21SUYC_TR8"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "17-21SUYC/TR8"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc:LED0805-R-RD"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yellow-light-0805-Highlighted_C2296.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C2296"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "17-21SUYC_TR8_0_1"
+				(polyline
+					(pts
+						(xy -3.81 3.3) (xy -2.79 2.79) (xy -3.3 2.29) (xy -3.81 3.3)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.79 4.32) (xy -1.78 3.81) (xy -2.29 3.3) (xy -2.79 4.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.03 1.52) (xy -3.81 3.3)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.03) (xy -1.27 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.02 2.54) (xy -2.79 4.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.52) (xy -1.27 0) (xy 1.27 1.78) (xy 1.27 -1.52)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "lcsc:NT3H2111W0FHKH"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "NT3H2111W0FHKH"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc:XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C710403"
+				(at 0 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NT3H2111W0FHKH_0_1"
+				(rectangle
+					(start -7.62 7.62)
+					(end 7.62 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -6.35 6.35)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -10.16 3.81 0)
+					(length 2.54)
+					(name "LA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -10.16 1.27 0)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -10.16 -1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -10.16 -3.81 0)
+					(length 2.54)
+					(name "FD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 3.81 180)
+					(length 2.54)
+					(name "LB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 1.27 180)
+					(length 2.54)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 -1.27 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 10.16 -3.81 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "TSSOP"
 		(exclude_from_sim no)
@@ -18497,6 +18891,18 @@
 			)
 		)
 		(uuid "0717c682-cdbc-4463-9924-f3fa4c2c9f25")
+	)
+	(text "NFC"
+		(exclude_from_sim no)
+		(at 45.466 80.264 0)
+		(effects
+			(font
+				(face "Blender Pro Bold")
+				(size 10.16 10.16)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "0a0ccde4-afe1-410b-877e-a3ccd9a0a35f")
 	)
 	(text "BGA"
 		(exclude_from_sim no)
@@ -18618,6 +19024,96 @@
 		)
 		(uuid "e27c1255-646a-4a8d-9e17-2c2a9fd1b58a")
 	)
+	(junction
+		(at 54.61 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c78bc0b-b1d2-4609-8a84-663adfe7ee3f")
+	)
+	(junction
+		(at 60.96 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47124c96-ac51-4ae8-975b-a2a60a0732a6")
+	)
+	(junction
+		(at 27.94 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dd5bfbd-f11b-46e5-8db7-aef93b48d87c")
+	)
+	(no_connect
+		(at 34.29 113.03)
+		(uuid "0ba17c61-6a70-4bd8-a0ed-e2210552d420")
+	)
+	(no_connect
+		(at 34.29 110.49)
+		(uuid "0bfa08ae-2164-4195-ac95-d31c519fee64")
+	)
+	(no_connect
+		(at 54.61 113.03)
+		(uuid "b45b6fce-ef65-44f9-95ae-9359d0e57352")
+	)
+	(wire
+		(pts
+			(xy 54.61 107.95) (xy 60.96 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04d35fb5-e73b-4e7f-98ee-9614bc8f8372")
+	)
+	(wire
+		(pts
+			(xy 34.29 107.95) (xy 27.94 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08b9f9db-a0e8-45cf-821a-1c1f5c2ef6a4")
+	)
+	(wire
+		(pts
+			(xy 40.64 119.38) (xy 27.94 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14f1dda6-8196-4b03-8dfa-192d3b47157e")
+	)
+	(wire
+		(pts
+			(xy 20.32 124.46) (xy 29.21 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cfbc41b-c3e3-4de8-abfe-130f08e53fdc")
+	)
+	(wire
+		(pts
+			(xy 54.61 107.95) (xy 54.61 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "206a8b60-cb95-49ae-a584-8d460eddba5d")
+	)
+	(wire
+		(pts
+			(xy 48.26 119.38) (xy 60.96 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32053609-0066-478d-8946-3d77cb7afb39")
+	)
 	(polyline
 		(pts
 			(xy 12.7 252.73) (xy 299.72 252.73)
@@ -18640,6 +19136,56 @@
 		)
 		(uuid "43fa24cf-aca6-428f-bdfd-deef7813cf35")
 	)
+	(wire
+		(pts
+			(xy 26.67 105.41) (xy 34.29 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4531124b-b183-464e-a87e-7b8c8986db55")
+	)
+	(wire
+		(pts
+			(xy 60.96 107.95) (xy 67.31 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45db0222-4476-4852-aeea-94eadc17756e")
+	)
+	(wire
+		(pts
+			(xy 67.31 107.95) (xy 67.31 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46a72df6-d177-4d6d-bbda-fb6a06f103eb")
+	)
+	(wire
+		(pts
+			(xy 26.67 92.71) (xy 26.67 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a752918-8ece-46f8-8dda-2d99daf4fdf3")
+	)
+	(wire
+		(pts
+			(xy 60.96 119.38) (xy 60.96 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4db663af-b903-4fd4-bac5-4df256f89e1a")
+	)
 	(polyline
 		(pts
 			(xy 74.93 12.7) (xy 74.93 132.08)
@@ -18650,6 +19196,37 @@
 			(color 132 0 0 1)
 		)
 		(uuid "55ed0a12-d7f8-4353-983a-9672ca17b75f")
+	)
+	(wire
+		(pts
+			(xy 67.31 124.46) (xy 58.42 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77d9508c-f2b5-40f1-a0f5-702ba3e13c6e")
+	)
+	(polyline
+		(pts
+			(xy 12.7 69.85) (xy 74.93 69.85)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 132 0 0 1)
+		)
+		(uuid "7923d547-e9f8-498c-aabe-2cdef0b8d6d9")
+	)
+	(wire
+		(pts
+			(xy 39.37 124.46) (xy 50.8 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a8bb3c3-6b5f-4883-ad26-abd023630937")
 	)
 	(polyline
 		(pts
@@ -18662,6 +19239,16 @@
 		)
 		(uuid "8b6965dc-c2f1-4930-bba6-00acede156b1")
 	)
+	(wire
+		(pts
+			(xy 62.23 105.41) (xy 62.23 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cad56e1-8c1c-41ac-9840-3dd977c593ee")
+	)
 	(polyline
 		(pts
 			(xy 407.67 132.08) (xy 222.25 132.08)
@@ -18672,6 +19259,16 @@
 			(color 132 0 0 1)
 		)
 		(uuid "b2abe650-de3e-4483-bda1-fc57e8418f4e")
+	)
+	(wire
+		(pts
+			(xy 54.61 105.41) (xy 62.23 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc29c442-95de-4300-a45f-38282e6b2c20")
 	)
 	(polyline
 		(pts
@@ -18684,6 +19281,26 @@
 		)
 		(uuid "cbfbe227-3980-4817-b3a3-7f596946ea04")
 	)
+	(wire
+		(pts
+			(xy 62.23 92.71) (xy 26.67 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccfb4177-a983-4d36-b127-a127f6fd1455")
+	)
+	(wire
+		(pts
+			(xy 27.94 107.95) (xy 20.32 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2680cdf-7a4b-4794-86cf-450be11f42e3")
+	)
 	(polyline
 		(pts
 			(xy 227.33 69.85) (xy 227.33 132.08)
@@ -18694,6 +19311,26 @@
 			(color 132 0 0 1)
 		)
 		(uuid "d51f7bda-c8ea-4bd8-b690-c57f8340774c")
+	)
+	(wire
+		(pts
+			(xy 20.32 107.95) (xy 20.32 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1392a96-2526-46db-bdb5-1a88d2c44130")
+	)
+	(wire
+		(pts
+			(xy 27.94 119.38) (xy 27.94 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e320c2dd-db14-404b-b457-80496b1b70c6")
 	)
 	(polyline
 		(pts
@@ -19153,6 +19790,101 @@
 			(project "trace"
 				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lcsc:NT3H2111W0FHKH")
+		(at 44.45 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16733a2b-f448-44e0-a7b8-4701ad2054a5")
+		(property "Reference" "U19"
+			(at 44.45 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NT3H2111W0FHKH"
+			(at 44.45 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc:XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH"
+			(at 44.45 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 44.45 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C710403"
+			(at 44.45 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ac0e2c4e-191d-4255-bebe-807a06626451")
+		)
+		(pin "4"
+			(uuid "47ac135c-657e-44a4-b9e5-165787313dbc")
+		)
+		(pin "8"
+			(uuid "329f5741-9317-41cd-9312-113fb3e153dc")
+		)
+		(pin "7"
+			(uuid "885d30fd-081f-4b1c-b402-e97ab8305c34")
+		)
+		(pin "6"
+			(uuid "c22f38bf-6d88-48db-bfad-4e41eb14466d")
+		)
+		(pin "5"
+			(uuid "7ad36218-bbfd-4284-a3b2-64000b27b441")
+		)
+		(pin "2"
+			(uuid "0740dbbc-32f4-4dc1-a2c1-2be43db940f1")
+		)
+		(pin "1"
+			(uuid "16b7a8f3-9f3c-4b14-a488-92c1b01327da")
+		)
+		(instances
+			(project ""
+				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
+					(reference "U19")
 					(unit 1)
 				)
 			)
@@ -19679,6 +20411,82 @@
 			(project "trace"
 				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
 					(reference "L8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 54.61 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "233f76a0-954f-4e6f-9b16-2a4199d638a0")
+		(property "Reference" "R17"
+			(at 49.276 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47"
+			(at 59.182 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 54.61 126.238 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 54.61 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 54.61 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25118"
+			(at 54.61 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60fa4d32-8d2e-49df-8cfd-1f5914fad75d")
+		)
+		(pin "2"
+			(uuid "4e5f9125-6bb1-4a2e-9469-c78d841f3ea7")
+		)
+		(instances
+			(project ""
+				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -20259,6 +21067,82 @@
 			(project "trace"
 				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lcsc:17-21SUYC_TR8")
+		(at 34.29 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3125e87a-0237-4a72-ae5c-4d8c823c3dbf")
+		(property "Reference" "LED1"
+			(at 29.718 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "17-21SUYC/TR8"
+			(at 33.528 127.508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc:LED0805-R-RD"
+			(at 34.29 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yellow-light-0805-Highlighted_C2296.html"
+			(at 34.29 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 34.29 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2296"
+			(at 34.29 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "660858ca-c1cd-4872-8eea-3ad430bbddf0")
+		)
+		(pin "1"
+			(uuid "a4b303e8-1018-4862-8fe6-875e6719abca")
+		)
+		(instances
+			(project ""
+				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -22807,16 +23691,15 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LTC6226xDC")
-		(at 43.18 76.2 0)
+		(at 64.77 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
-		(fields_autoplaced yes)
 		(uuid "86f88616-150d-472e-94bd-afeda3740855")
 		(property "Reference" "U21"
-			(at 55.88 69.7798 0)
+			(at 63.5 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22824,7 +23707,7 @@
 			)
 		)
 		(property "Value" "LTC6226xDC"
-			(at 55.88 72.3198 0)
+			(at 63.5 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22832,7 +23715,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-6-1EP_2x2mm_P0.5mm_EP0.6x1.37mm"
-			(at 43.18 91.44 0)
+			(at 64.77 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22841,7 +23724,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc6226-6227.pdf"
-			(at 43.18 76.2 0)
+			(at 64.77 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22850,7 +23733,7 @@
 			)
 		)
 		(property "Description" "420MHz GBW, 180V/μs, 1nV/√Hz, RRO, 95μV max offset, 2.8..11.75V OpAmp with shutdown, WDFN-6 (WSON-6)"
-			(at 43.18 76.2 0)
+			(at 64.77 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24226,6 +25109,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 44.45 119.38 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7b7278f-57ab-41dd-afbb-9b425bbc61f0")
+		(property "Reference" "C26"
+			(at 40.386 117.856 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220nF"
+			(at 50.038 117.856 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 48.26 118.4148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 44.45 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 44.45 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21120"
+			(at 44.45 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b7e102bd-98b4-4ccd-82f9-3ef2370c6c89")
+		)
+		(pin "2"
+			(uuid "922a01fd-a9c6-4b12-8554-44b40c8a6b76")
+		)
+		(instances
+			(project "trace"
+				(path "/3c2b7a37-1a2b-4495-a21e-9b7d1b6357e8"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:DMG1012T")
 		(at 185.42 46.99 0)
 		(unit 1)
@@ -24572,7 +25531,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LTC6269xDD")
-		(at 43.18 52.07 0)
+		(at 22.86 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24581,7 +25540,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7131873-7737-4773-8c8d-eb3480e4f4ce")
 		(property "Reference" "U23"
-			(at 43.18 41.91 0)
+			(at 22.86 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24589,7 +25548,7 @@
 			)
 		)
 		(property "Value" "LTC6269xDD"
-			(at 43.18 44.45 0)
+			(at 22.86 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24597,7 +25556,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
-			(at 43.18 62.23 0)
+			(at 22.86 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24606,7 +25565,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/62689f.pdf"
-			(at 43.18 52.07 0)
+			(at 22.86 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24615,7 +25574,7 @@
 			)
 		)
 		(property "Description" "Dual 500MHz Ultra-Low Bias  Current FET Input Op Amps with Shutdown, DFN-10"
-			(at 43.18 52.07 0)
+			(at 22.86 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26579,7 +27538,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:LTC6362xDD")
-		(at 43.18 105.41 0)
+		(at 44.45 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26588,7 +27547,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb2a7622-8b23-4282-9be5-2ed94e2a64f0")
 		(property "Reference" "U4"
-			(at 42.7833 93.98 0)
+			(at 44.0533 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26597,7 +27556,7 @@
 			)
 		)
 		(property "Value" "LTC6362xDD"
-			(at 42.7833 96.52 0)
+			(at 44.0533 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26606,7 +27565,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm"
-			(at 43.18 115.57 0)
+			(at 44.45 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26615,7 +27574,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/6362fa.pdf"
-			(at 43.18 107.95 0)
+			(at 44.45 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26624,7 +27583,7 @@
 			)
 		)
 		(property "Description" "Precision, Low Power, Rail-to-Rail Input/Output, Differential Op Amp/SAR ADC Driver, DFN-8"
-			(at 43.18 105.41 0)
+			(at 44.45 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
