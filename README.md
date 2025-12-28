@@ -43,8 +43,10 @@ A comprehensive PCB ruler with essential reference footprints, measurements, and
 - **Useful conversions** on the back
 - **NFC Tag** to keep owner info / save more conversions/formulas/information
 
-<img src="assets/trace_nfc.mp4" alt="Trace PCB" width="800"/>
-
+<video width="800" controls poster="assets/trace.jpg">
+  <source src="assets/trace_nfc.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="assets/trace_nfc.mp4">Download the video</a>.
+</video>
 
 ## PCB
 
