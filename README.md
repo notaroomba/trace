@@ -25,6 +25,8 @@ A comprehensive PCB ruler with essential reference footprints, measurements, and
 
 <img src="blender/render.png" alt="Trace PCB" width="800"/>
 
+<img src="assets/trace.jpg" alt="Trace PCB" width="800"/>
+
 ## Key Features
 
 - **310mm x 35mm PCB ruler** with imperial and metric measurements
@@ -40,6 +42,9 @@ A comprehensive PCB ruler with essential reference footprints, measurements, and
 - **MOSFET channel type reference** silkscreen
 - **Useful conversions** on the back
 - **NFC Tag** to keep owner info / save more conversions/formulas/information
+
+<img src="assets/trace_nfc.mp4" alt="Trace PCB" width="800"/>
+
 
 ## PCB
 
