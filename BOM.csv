@@ -1,9 +1,9 @@
 Item,Cost,Source
-PCB,8.20,JLCPCB
+PCB (x5),8.20,JLCPCB
 PCB Shipping to LCSC,5.64,JLCPCB
 Capacitors,0.56,LCSC
 LEDs,0.59,LCSC
 Resistors,0.06,LCSC
-NFC Chips,3.23,LCSC
+NFC Chips (x5),3.23,LCSC
 Handling/Shipping Fee (LCSC),15.54,LCSC
-Total,33.82,JLCPCB+LCSC
+Total (x5),33.82,JLCPCB+LCSC
